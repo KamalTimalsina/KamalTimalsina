@@ -14,7 +14,7 @@
 
 * 🎓 Bachelor of **Computer Engineering** at **Tribhuvan University**
 * 🏫 Studying at **Khwopa College of Engineering**
-* 💻 Passionate about **Programming, Web Development, and Game Development**
+* 💻 Passionate about **Programming, Web Development,Data Analytics and Data Science**
 * 🌱 Currently improving my skills in **Python, JavaScript, and HTML**
 * 🤝 Strong teamwork, communication, and customer relation skills
 * 📍 Banepa, Nepal
