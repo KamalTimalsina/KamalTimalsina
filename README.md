@@ -56,9 +56,8 @@
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
-
+<!--
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=KamalTimalsina&theme=onestar&no-frame=true"/>
 </p>
@@ -68,10 +67,17 @@
 </p>
 
 ---
+-->
 
 ## 📜 Certifications
 
-Currently no certifications listed in the attached resume.
+## 📜 Certifications
+
+<p>
+<a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a3fdc66b6cf382228b81c4b_1782578183048_completion_certificate.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-blue?style=for-the-badge&logo=deloitte" />
+</a>
+</p>
 
 ---
 
