@@ -3,7 +3,7 @@
 <h3 align="center">Engineering Student | Khwopa College of Engineering | Python & JavaScript Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=BPH+Student+at+Khwopa+College+of+Engineering;Python+%7C+JavaScript+%7C+HTML+Developer;Passionate+About+Game+Development;Always+Learning+and+Building&font=Fira%20Code&center=true&color=00F7FF&width=700&height=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student+at+Khwopa+College+of+Engineering;Python+%7C+JavaScript+%7C+HTML+Developer;Passionate+About+Data+Science;Always+Learning+and+Building&font=Fira%20Code&center=true&color=00F7FF&width=700&height=50"/>
 </p>
 
 <p align="center">
@@ -68,8 +68,6 @@
 
 ---
 -->
-
-## 📜 Certifications
 
 ## 📜 Certifications
 
