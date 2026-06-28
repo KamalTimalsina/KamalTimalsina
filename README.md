@@ -1,6 +1,6 @@
 # Hi, I'm Kamal Timalsina 👋
 
-<h3 align="center">BCTtudent | Khwopa College of Engineering | Python & JavaScript Developer</h3>
+<h3 align="center">Engineering Student | Khwopa College of Engineering | Python & JavaScript Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=BPH+Student+at+Khwopa+College+of+Engineering;Python+%7C+JavaScript+%7C+HTML+Developer;Passionate+About+Game+Development;Always+Learning+and+Building&font=Fira%20Code&center=true&color=00F7FF&width=700&height=50"/>
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Bachelor of **BPH** at **Purbanchal University**
+* 🎓 Bachelor of **Computer Engineering** at **Tribhuvan University**
 * 🏫 Studying at **Khwopa College of Engineering**
 * 💻 Passionate about **Programming, Web Development, and Game Development**
 * 🌱 Currently improving my skills in **Python, JavaScript, and HTML**
